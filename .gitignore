@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+__pytest_cache__/
+*.pyc
+
+# Virtual env
+.venv/
+env/
+venv/
+
+# Data
+data/processed/
+reports/
+*.xlsx
+*.csv
+
+# Models
+models/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+Churn-Fintech-Simulator - Predicted Interview Questions.docx
