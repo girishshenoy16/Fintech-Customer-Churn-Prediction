@@ -3,7 +3,7 @@ import numpy as np
 from datetime import datetime, timedelta
 import os
 
-def generate(n=5000):
+def generate(n=10000):
     np.random.seed(42)
     rows = []
     today = datetime(2025,11,23)
